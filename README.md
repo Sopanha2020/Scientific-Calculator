@@ -1,6 +1,6 @@
 # SCIENTIFIC CALCULATOR
 
-This is an app with a simple GUI created in Python3 using a tkinter library.
+This is an app with a simple GUI created in Python 3+ using a tkinter library.
 
 My program allows to perform basic engineering calculations which includes trigonometric, exponential, logarithmic functions, etc.
 
@@ -12,11 +12,11 @@ For me as a person who has to solve various engineering tasks this program becam
 
 # How to launch:
 
--Make sure you have Pyhton3 IDLE.
+- Make sure you have Python3 IDE.
 
--Download Scientific_Calculator.py file.
+- Download Scientific_Calculator.py file.
 
--Run the Scientific_Calculator.py file with the following packages installed:
+- Run the Scientific_Calculator.py file with the following packages installed:
 
  - tkinter
  - math
