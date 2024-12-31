@@ -18,6 +18,6 @@ For me as a person who has to solve various engineering tasks this program becam
 
 - Run the Scientific_Calculator.py file with the following packages installed:
 
- - tkinter
- - math
+ * tkinter
+ * math
 
