@@ -12,11 +12,11 @@ For me as a person who has to solve various engineering tasks this program becam
 
 # How to launch:
 
-- Make sure you have Python3 IDE.
+-Make sure you have Python3 IDE.
 
-- Download Scientific_Calculator.py file.
+-Download Scientific_Calculator.py file.
 
-- Run the Scientific_Calculator.py file with the following packages installed:
+-Run the Scientific_Calculator.py file with the following packages installed:
 
  * tkinter
  * math
