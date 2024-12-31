@@ -1,7 +1,5 @@
 # SCIENTIFIC CALCULATOR
 
-My first GitHub Project
-
 This is an app with a simple GUI created in Python3 using a tkinter library.
 
 My program allows to perform basic engineering calculations which includes trigonometric, exponential, logarithmic functions, etc.
